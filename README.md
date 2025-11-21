@@ -95,5 +95,5 @@ EasyShop/
 
 
 ## 🙌 Author
-Designed & Developed by **EasyShop** (Your Name)
+Designed & Developed by **Sushma A**
 
