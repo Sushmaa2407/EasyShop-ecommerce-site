@@ -9,7 +9,7 @@ It includes a homepage, products page, and cart page with localStorage-based car
 ## 🚀 Live Demo 
 
 ```
-https://your-username.github.io/EasyShop-ecommerce-site/
+https://Sushmaa2407.github.io/EasyShop-ecommerce-site/
 ```
 
 
