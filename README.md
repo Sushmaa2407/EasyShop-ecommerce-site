@@ -6,14 +6,12 @@ It includes a homepage, products page, and cart page with localStorage-based car
 
 ---
 
-## 🚀 Live Demo (GitHub Pages)
-Once you deploy using GitHub Pages, your site will be live here:
+## 🚀 Live Demo 
 
 ```
-https://your-username.github.io/your-repo-name/
+https://your-username.github.io/EasyShop-ecommerce-site/
 ```
 
-Replace with your actual username and repository name.
 
 ---
 
