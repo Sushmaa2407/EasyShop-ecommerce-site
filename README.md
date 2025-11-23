@@ -69,7 +69,7 @@ EasyShop/
 ## 📦 How to Run Locally
 1. Download or clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Sushmaa2407/EasyShop-ecommerce-site.git
    ```
 2. Open `index.html` in your browser.
 
